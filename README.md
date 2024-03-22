@@ -10,4 +10,4 @@ The project is built using CMake as well.
 ```
 git clone https://github.com/your_project.git
 ```
-and then you can open *build_and_run.bat* file
+and then you can open **build_and_run.bat** file
