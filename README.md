@@ -1,6 +1,6 @@
 ## Face Detection (C++ Project with OpenCV)
-This project is an application written in C++ that utilizes the OpenCV library for image processing. 
-The project is built using CMake as well.
+This project is an application written in C++ that utilizes the OpenCV library for face detection. 
+The project is designed to recognize the number of faces simultaneously in a frame and display the count.
 
 ## Dependencies
 * [CMake (version 3.0 and above)](https://cmake.org/download/)
