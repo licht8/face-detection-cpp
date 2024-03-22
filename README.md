@@ -11,7 +11,7 @@ The project is designed to recognize the number of faces simultaneously in a fra
 ```
 git clone https://github.com/licht8/face-detection-cpp.git
 ```
-and then you can open [**build_and_run.bat**] file
+and then you can open [**build_and_run.bat**]() file
 
 ## Running the Application
 After successfully building the project, the executable file will start automatically, but if you want to open it again or have any problems you can run the application by executing the following command from the **build/Debug/** directory:
