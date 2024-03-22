@@ -8,6 +8,6 @@ The project is built using CMake as well.
 
 ## Building the Project
 ```
-git clone https://github.com/your_project.git
+git clone https://github.com/licht8/face-detection-cpp.git
 ```
 and then you can open **build_and_run.bat** file
