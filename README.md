@@ -4,4 +4,4 @@ The project is built using CMake as well.
 
 ## Dependencies
 * CMake (version 3.0 and above)
-* [OpenCV (version 4.8.0)](https://github.com/opencv/opencv/releases/download/4.8.0/opencv-4.8.0-windows.exe)
+* [OpenCV (version 4.8.0)](https://opencv.org/releases/)
