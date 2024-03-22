@@ -13,8 +13,6 @@ add_executable(fDetection faceDetection.cpp)
 target_link_libraries(fDetection
     opencv_world480.lib
     opencv_world480d.lib
-    opencv_world480.dll
-    opencv_world480d.dll
 )
 
 file(COPY "haarcascade_frontalface_default.xml" DESTINATION "${CMAKE_CURRENT_BINARY_DIR}")
